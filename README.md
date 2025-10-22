@@ -1,1 +1,3 @@
-# W3---PRACTICE---LAYERED-ARCHITECTURE
+## UML Diagram
+
+![UML Diagram](UML.jpg)
