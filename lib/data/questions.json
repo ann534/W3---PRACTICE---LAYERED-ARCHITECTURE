@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "title": "Color of a banana?",
+      "choices": ["Yellow", "Red", "Blue"],
+      "goodChoice": "Yellow",
+      "point": 10
+    },
+    {
+      "title": "How many legs does a cat have?",
+      "choices": ["2", "3", "4"],
+      "goodChoice": "4",
+      "point": 50
+    },
+    {  
+      "title": "What do bees make?",
+      "choices": ["Milk", "Honey", "Juice"], 
+      "goodChoice": "Honey",
+      "point": 30
+    },
+    {
+      "title": "What is 1 + 1?",
+      "choices": ["1", "2", "3"],
+      "goodChoice": "2",
+      "point": 15
+    },
+    {
+      "title": "Color of the sky during the day?",
+      "choices": ["Blue", "Black", "Orange"],
+      "goodChoice": "Blue",
+      "point": 5
+    },
+    {
+      "title": "Which animal says 'Moo'?",
+      "choices": ["Dog", "Cow", "Cat"],
+      "goodChoice": "Cow",
+      "point": 20
+    },
+    {
+      "title": "Which one is a fruit?",
+      "choices": ["Apple", "Carrot", "Potato"],
+      "goodChoice": "Apple",
+      "point": 20
+    }
+  ]
+}
